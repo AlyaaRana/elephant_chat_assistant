@@ -1,16 +1,19 @@
-# elephant_chat_assistant
 
-A new Flutter project.
+# Elephant Chat Assistant
 
-## Getting Started
+A Flutter app to educate and assist communities on elephant-human conflict,
+with offline guide pages and future AI chatbot support.
 
-This project is a starting point for a Flutter application.
+## Features
+- 🔹 Offline guide book (PageView)
+- 🔹 GetX state management & routing
+- 🔹 Dio setup for API integration
+- 🔹 Modular and scalable architecture
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- Flutter
+- GetX
+- Dio
+- Shared Preferences
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure
